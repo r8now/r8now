@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @r8now
 - 👀 I’m interested in food!
 - 🌱 I’m currently learning Git hub.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---> Hosein_100@hotmail.com
 
 <!---
