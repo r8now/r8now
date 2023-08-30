@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @r8now
+- 👋 Hi, I’m @r8now/Hosein
 - 👀 I’m interested in food!
+- Open for HIRE!
 - 🌱 I’m currently learning Git hub.
 - 📫 How to reach me ---> Hosein_100@hotmail.com
 
