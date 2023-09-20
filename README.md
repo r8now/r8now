@@ -1,7 +1,8 @@
+- 👋 #OpenToWork
 - 👋 Hi, I’m @r8now/Hosein
-- 👀 I’m interested in food!
+-  I’m interested in food, strength training, motorcycles!
 - Open for HIRE!
-- 🌱 I’m currently learning Git hub.
+- 🌱 I’m currently learning React and TypeScript.
 - 📫 How to reach me ---> Hosein_100@hotmail.com
 
 <!---
